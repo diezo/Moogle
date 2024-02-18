@@ -1,12 +1,12 @@
 # Moogle - Google Search API
 This is a python package that uses [**BeautifulSoup4**](https://pypi.org/project/beautifulsoup4/) to perform google text search and scrape results from the webpage.
 
-## Installation 📦
+## 📦 Installation
 ```shell
 $ pip install moogle
 ```
 
-## Usage 🚀
+## 🚀 Usage
 To perform a google search:
 ```python
 from moogle import Search
@@ -19,7 +19,7 @@ for result in results:
     print(result.destination)
 ```
 
-## About Me 🧔
+## 🧔 About Me
 Hey! 👋 I'm a software hobbyist, currently living in India. Some of my top projects include:
 
 - **Rooms** - Android Social Media App
