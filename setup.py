@@ -1,12 +1,12 @@
 from distutils.core import setup
 from pathlib import Path
 
-version = "1.0.0"
+version = "1.0.1"
 long_description = (Path(__file__).parent / "README.md").read_text(encoding="utf-8")
 
 setup(
     name="Moogle",
-    packages=["moogle"],
+    packages=["moogle", "DataStructures"],
     version=version,
     license="MIT",
     description="📦 Google Search API - Simple Python Package",
