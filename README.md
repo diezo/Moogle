@@ -24,8 +24,9 @@ Hey! 👋 I'm a software hobbyist, currently living in India. Some of my top pro
 
 - **Rooms** - Android Social Media App
 - **iRoom** - Realtime Android Room Chat App
-- [**Ensta**](https://github.com/diezo/ensta) - Python Instagram API
-- [**ProGPT**](https://github.com/diezo/progpt) - Python ChatGPT API
+- [**Ensta**](https://github.com/diezo/ensta) - Python Package For Instagram API
+- [**ProGPT**](https://github.com/diezo/progpt) - Python Package For ChatGPT API
+- [**Moogle**](https://github.com/diezo/moogle) - Python Package For Google Search API
 - **ShieldPass** - Offline Android Password Manager
 
 **Reach me at: sonniiii@outlook.com**
