@@ -6,7 +6,7 @@ long_description = (Path(__file__).parent / "README.md").read_text(encoding="utf
 
 setup(
     name="Moogle",
-    packages=["moogle", "DataStructures"],
+    packages=["moogle", "moogle.DataStructures"],
     version=version,
     license="MIT",
     description="📦 Google Search API - Simple Python Package",
